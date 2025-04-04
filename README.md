@@ -21,4 +21,4 @@ This is a simple calculator user interface built using **HTML** and **CSS**. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-ui.git
+   git clone https://github.com/diyatahira/calculator-ui
